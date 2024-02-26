@@ -7,9 +7,8 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 ## Sobre Mim
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
+- Técnico em Informática formado pela CEDAF UFV- 2020-2022. 
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
-
 ## Habilidades
 
 - **Linguagens de Programação:** Java, Python, C#
@@ -17,26 +16,12 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
-- *[Adicione outras habilidades relevantes]*
 
-## Projetos Destacados
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
 ## Contato
 
-- **E-mail:** [Seu E-mail]
-- **Twitter:** [Seu Perfil no Twitter]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+-  E-mail: viniciusparanho@gmail.com
+-  instagram: vini.p.r
+- **LinkedIn: https://www.linkedin.com/in/vinicius-paranho-790b22281/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊

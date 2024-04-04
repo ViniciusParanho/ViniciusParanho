@@ -22,6 +22,6 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 -  E-mail: viniciusparanho@gmail.com
 -  instagram: vini.p.r
-- **LinkedIn: https://www.linkedin.com/in/vinicius-paranho-790b22281/
+-  LinkedIn: https://www.linkedin.com/in/vinicius-paranho-790b22281/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊

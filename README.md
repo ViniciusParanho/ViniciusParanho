@@ -7,7 +7,8 @@ Sobre Mim
 📚 Formado em Técnico em Informática pela CEDAF UFV
 🏫 Ex-aluno do Colégio Santa Maria Minas
 
-Sobre Minha Paixão pela Tecnologia
+Sobre Minha Paixão pela Tecnologia:
+
 Desde cedo, fui fascinado pelo mundo da tecnologia. A possibilidade de criar soluções inovadoras e impactar positivamente a vida das pessoas sempre me motivou. Durante minha jornada acadêmica e profissional, tenho buscado aprimorar minhas habilidades em desenvolvimento de software, aprendendo novas tecnologias e buscando constantemente desafios que me permitam crescer e evoluir.
 
 Sobre Meu Trabalho na WebBH

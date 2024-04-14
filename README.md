@@ -16,10 +16,12 @@ Sobre Minha Paixão pela Tecnologia:
 
 Desde cedo, fui fascinado pelo mundo da tecnologia. A possibilidade de criar soluções inovadoras e impactar positivamente a vida das pessoas sempre me motivou. Durante minha jornada acadêmica e profissional, tenho buscado aprimorar minhas habilidades em desenvolvimento de software, aprendendo novas tecnologias e buscando constantemente desafios que me permitam crescer e evoluir.
 
-Sobre Meu Trabalho na WebBH
+Sobre Meu Trabalho na WebBH:
+
 Atualmente, faço parte da equipe da WebBH, uma empresa que oferece soluções de software para gerenciamento de postos de gasolina. Como analista de suporte, tenho a oportunidade de aplicar meus conhecimentos técnicos para ajudar nossos clientes a obterem o máximo de nossas soluções, garantindo um excelente nível de serviço e satisfação.
 
-Entre em Contato
+Entre em Contato:
+
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se quiser trocar ideias, discutir projetos ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
 
 📧 Email: viniciusparanho@gmail.com

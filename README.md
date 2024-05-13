@@ -34,3 +34,14 @@ Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se qui
 
 Obrigado por Visitar!
 Obrigado por conferir meu perfil do GitHub. Estou animado para compartilhar projetos e colaborar com a comunidade. Vamos construir um futuro mais tecnológico juntos! 🚀
+
+
+
+
+
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusParanho&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniciusParanho&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusParanho&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusParanho&theme=github_dark"/>
+</div>
+

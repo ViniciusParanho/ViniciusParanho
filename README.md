@@ -1,5 +1,5 @@
 </td>
-<img src="https://github.com/ViniciusParanho/ViniciusParanho/blob/main/github-header-image%20(3).png" width="50px" height="50px"/></a>
+<img src="https://github.com/ViniciusParanho/ViniciusParanho/blob/main/github-header-image%20(3).png" width="1080px" height="200px"/></a>
 
 
 

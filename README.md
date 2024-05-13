@@ -1,3 +1,9 @@
+</td>
+<td><a href="https://replit.com/@aramuni"><img src="https://github.com/ViniciusParanho/ViniciusParanho/blob/main/github-header-image%20(3).png" width="50px" height="50px"/></a>
+
+
+
+
 
 Opa, me chamo Vinícius Paranho Ribeiro, Sou APAIXONADO por música (Principalmente Eletrônica) e um entusiasta da tecnologia apaixonado por desenvolvimento de software e solução de problemas. Tenho 19 anos e moro em Contagem, MG. Atualmente, estou cursando Engenharia de Software na PUC Minas, unidade Coração Eucarístico. Além disso, sou formado em Técnico em Informática pelo CEDAF UFV, concluído entre 2020 e 2022.
 

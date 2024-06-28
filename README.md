@@ -5,7 +5,7 @@
 
 
 
-Opa, me chamo Vinícius Paranho Ribeiro, Sou APAIXONADO por música (Principalmente Eletrônica) e um entusiasta da tecnologia apaixonado por desenvolvimento de software e solução de problemas. Tenho 19 anos e moro em Contagem, MG. Atualmente, estou cursando Engenharia de Software na PUC Minas, unidade Coração Eucarístico. Além disso, sou formado em Técnico em Informática pelo CEDAF UFV, concluído entre 2020 e 2022.
+Opa, me chamo Vinícius Paranho Ribeiro, um entusiasta da tecnologia apaixonado por desenvolvimento de software e solução de problemas. Tenho 19 anos e moro em Contagem, MG. Atualmente, estou cursando Engenharia de Software na PUC Minas, unidade Coração Eucarístico. Além disso, sou formado em Técnico em Informática pelo CEDAF UFV, concluído entre 2020 e 2022.
 
 Sobre Mim
 

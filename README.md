@@ -7,6 +7,14 @@
 
 Opa, me chamo Vinícius Paranho Ribeiro, um entusiasta da tecnologia apaixonado por desenvolvimento de software e solução de problemas. Tenho 19 anos e moro em Contagem, MG. Atualmente, estou cursando Engenharia de Software na PUC Minas, unidade Coração Eucarístico. Além disso, sou formado em Técnico em Informática pelo CEDAF UFV, concluído entre 2020 e 2022.
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 Sobre Mim
 
 🎓 Graduando em Engenharia de Software na PUC Minas

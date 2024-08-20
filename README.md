@@ -1,6 +1,6 @@
 </td>
 <img src="https://github.com/ViniciusParanho/ViniciusParanho/blob/main/github-header-image%20(3).png" width="1080px" height="200px"/></a>
-
+![snake gif](https://github.com/ViniciusParanhp/ViniciusParanho/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -44,5 +44,3 @@ Obrigado por conferir meu perfil do GitHub. Estou animado para compartilhar proj
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusParanho&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusParanho&theme=github_dark"/>
 </div>
-
-![snake gif](https://github.com/Vinicius Paranho Ribeiro/ViniciusParanho/blob/output/github-contribution-grid-snake.svg)

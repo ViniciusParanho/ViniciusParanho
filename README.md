@@ -45,3 +45,4 @@ Obrigado por conferir meu perfil do GitHub. Estou animado para compartilhar proj
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusParanho&theme=github_dark"/>
 </div>
 
+![snake gif](https://github.com/ViniciusParanho/ViniciusParanho/blob/output/github-contribution-grid-snake.svg)
